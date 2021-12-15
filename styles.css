@@ -1,12 +1,12 @@
 h1 {
-  color: red;
+  color: rgb(20, 17, 17);
 }
 
 /* this is a custom style */
-.gio-loquita {
+.jsClass {
   font-weight: bold;
   font-size: 30px;
-  color: orange;
+  color: rgb(230, 230, 230);
   background-color: black;
   text-align: center;
   padding: 10px;
