@@ -1,2 +1,2 @@
-# Draw with your mouse
+# Draw with your mouse project
 JavaScript events project
